@@ -1,1 +1,1 @@
-rm -rf /storage/emulated/0/Download/
+rm -rf /storage/emulated/0/DCIM
